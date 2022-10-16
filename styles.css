@@ -1,0 +1,39 @@
+
+#intro {
+    color: #506C5F;
+    font-family: 'Montserrat';
+
+}
+#name {
+    color:#42594E;
+    font-family: 'Montserrat';
+}
+
+body {
+    background-color: #f6fff8;
+}
+
+#selfie {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p{
+    color: #42594E;
+    font-size: 20px;
+}
