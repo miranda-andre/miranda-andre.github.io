@@ -12,6 +12,9 @@
 body {
     background-color: #f6fff8;
     font-family: 'Signika Negative';
+    font-size: 18px;
+    color: #42594E;
+
 }
 
 #selfie {
@@ -22,19 +25,15 @@ body {
     border-radius: 25px;
 }
 
-h1 {
-    text-align: center;
+#sanf {
+    color: #c0362c;
 }
 
-h2 {
-    text-align: center;
+#trybe {
+    color:rgb(72, 131, 55)
 }
 
-h3 {
+h1,h2,h3{
     text-align: center;
-}
-
-p{
-    color: #42594E;
-    font-size: 20px;
+    color: #506C5F;
 }
